@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "npmClient": "npm",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "packages": ["packages/*"]
+}
